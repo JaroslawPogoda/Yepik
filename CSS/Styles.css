@@ -1,0 +1,126 @@
+<style type="text/css">
+body{
+	background-image: url("texture-grey-metallic-background.jpg");
+	background-color: #cccccc;
+	
+}
+.body_items{
+	position: static;
+	background-color: #cccccc;
+	border-radius: 5px;
+	margin: auto;
+	width: 50%;
+	border: 3px solid green;
+	padding: 10px;
+
+}
+.imgs{
+	align-self: center;
+}
+.topnav {
+	position: fixed;
+	border-radius: 10px;
+	background-color: #333;
+	overflow: hidden;
+}
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+#differentp{
+	text-decoration: underline;
+	color: 67890f;
+	font-style: italic;
+}
+.centerimg{
+	position: relative;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30% ;
+}
+#buttonsb{
+	border-radius: 5px;
+	padding: 3px;
+
+}
+#buttonsb :hover{
+	color: green;
+
+}
+.body_css{
+	background-image: url("../Imgs/texture-grey-metallic-background.jpg");
+	background-color: black;
+}
+.iframe-container {
+	text-align:center;
+	width:100%;
+}
+.centerlabel {
+	text-align:center;
+	width:100%;
+}
+#image { 
+	float: left;
+	align-self: auto;
+}
+.topnav a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+.topnav a.active {
+	background-color: #04AA6D;
+	color: white;
+}
+table, th, td{
+	border-radius: 10px;
+	height: 50%;
+	border: 1px solid black;
+	
+}
+table{
+	width: 100%;
+}
+.wider_td_box{
+	width: 70%;
+}
+h2{
+	color: red;
+	font-family: cursive;
+	font-weight: 500px;
+	text-align: center ;
+	text-decoration: underline;
+}
+h3{
+	color: orange;
+	font-family: cursive;
+	font-weight: 500px;
+	text-align: center ;
+	text-decoration: underline;
+}
+p{
+	text-align: center;
+	color: blue ;
+	font-size: 16px;
+	font-family: cursive;
+}
+.favorite{
+	font-style: italic;
+}
+a{
+	color: purple;
+	font-size:small;
+	text-decoration: none;
+}
+footer{
+	text-align: center;
+}
+</style>
